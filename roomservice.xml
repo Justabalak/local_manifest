@@ -1,6 +1,4 @@
 <manifest>
-  <remote name="github" fetch="https://github.com/" />
-
   <project path="device/realme/r5x"
            name="Justabalak/android_device_realme_r5x"
            remote="github"
