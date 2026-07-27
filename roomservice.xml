@@ -13,4 +13,10 @@
            name="Amritorock/vendor_realme_r5x"
            remote="github"
            revision="android-16" />
+
+  <project path="hardware/egistec/fingerprint"
+           name="Amritorock/hardware_egistec_fingerprint"
+           remote="github"
+           revision="main" />
+  
 </manifest>
