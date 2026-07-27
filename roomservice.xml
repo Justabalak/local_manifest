@@ -18,5 +18,11 @@
            name="Amritorock/hardware_egistec_fingerprint"
            remote="github"
            revision="main" />
+
+  <project path="hardware/dolby" 
+           name="Amritorock/hardware_dolby" 
+           remote="github"
+           revision="android-16" />
+  
   
 </manifest>
