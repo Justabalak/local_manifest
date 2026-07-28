@@ -2,7 +2,7 @@
   <project path="device/realme/r5x"
            name="Justabalak/android_device_realme_r5x"
            remote="github"
-           revision="Backup" />
+           revision="Po" />
 
   <project path="kernel/realme/r5x"
            name="Amritorock/kernel_realme_sm6125"
