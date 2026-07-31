@@ -14,11 +14,6 @@
            remote="github"
            revision="android-16" />
   
-
- # <project path="hardware/dolby" 
- #          name="Amritorock/hardware_dolby" 
-  #         remote="github"
-   #        revision="android-16" />
   
   
 </manifest>
