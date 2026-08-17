@@ -2,17 +2,17 @@
   <project path="device/realme/r5x"
            name="Justabalak/android_device_realme_r5x"
            remote="github"
-           revision="aosp-17" />
+           revision="android-16" />
 
   <project path="kernel/realme/r5x"
            name="Amritorock/kernel_realme_sm6125"
            remote="github"
-           revision="android-17" />
+           revision="android-16" />
 
   <project path="vendor/realme/r5x"
            name="Amritorock/vendor_realme_r5x"
            remote="github"
-           revision="android-17" />
+           revision="android-16" />
   
   <project path="hardware/egistec/fingerprint"
            name="Amritorock/hardware_egistec_fingerprint"
